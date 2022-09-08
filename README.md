@@ -1,10 +1,5 @@
-# Bitsy
-Bitsy is a little editor for games, worlds, or stories.
-The goal is to make it easy to make games where you can walk around and talk to people and be somewhere!
+# Bitsy 7.12
 
-# Make a game with Bitsy
-You can use [the Bitsy editor](https://ledoux.itch.io/bitsy) in your browser on itch.io! When you've finished your game, you can download it as an html file and share it. :)
+This is a fork of Adam Le Doux's amazing Bitsy game editor. This one is stuck at version 7.12 -- the last revision of Bitsy 7.
 
-# Bug reports
-If you find a bug in Bitsy, please submit [an issue here](https://github.com/le-doux/bitsy/issues).
-I am in the process of moving my bug backlog into github.
+To use the current version of Bitsy (Bitsy 8), see Adam's bitsy repo here: https://github.com/le-doux/bitsy
